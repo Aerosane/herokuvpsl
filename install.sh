@@ -8,7 +8,7 @@ apt install novnc -y
 apt install x11vnc -y  
 apt install xvfb -y 
 apt install supervisor -y  
-apt install xfce4 -y 
+apt install xfce4 xfce4-goodies -y 
 apt install gnome-shell -y 
 apt install ubuntu-gnome-desktop -y 
 apt install gnome-session -y  
